@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Locality-Prior Digital Twin of Flux-Line Crosstalk: Calibration Budget versus Array Size"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-11-10
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/locality-prior-flux-crosstalk-digital-twin"
+abstract: "Simulation study of how many calibration experiments a locality-structured digital twin of flux-line crosstalk needs, compared with line-sweep, dense least-squares and neural-network twins, for 4 to 100 flux-tunable qubits."
+keywords:
+  - quantum computing control
+  - digital twin
+  - crosstalk calibration
+  - superconducting qubits
